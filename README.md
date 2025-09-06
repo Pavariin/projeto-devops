@@ -1,3 +1,2 @@
-Atividade Formativa da Disciplina DevOps 
-Análise e Desenvolvimento de Sistemas - PUCPR
+Atividade Formativa: DevOps - Análise e Desenvolvimento de Sistemas
 Aluno: Vinicius Valetim Pavarim
